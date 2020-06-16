@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Smartsuit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Intermediate\Build\Win64\pluginconvertEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\Module.Smartsuit.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\Module.Smartsuit.gen.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\Default.rc2.res"
+/OUT:"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\Smartsuit\UE4Editor-Smartsuit.lib"
+/INCLUDE:IMPLEMENT_MODULE_Smartsuit

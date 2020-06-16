@@ -1,0 +1,1169 @@
+﻿Log file open, 06/16/20 01:42:20
+LogInit: Display: Running engine for game: LutonCity
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.840099
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VirtualCamera
+LogPluginManager: Mounting plugin VirtualProductionUtilities
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleARKitFaceSupport
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin TimedDataMonitor
+LogPluginManager: Mounting plugin Smartsuit
+LogRemoteSession: No channels specified. Defaulting to Input and Framebuffer.
+LogRemoteSession: Will request channel FRemoteSessionInputChannel in mode Read.
+LogRemoteSession: Will request channel FRemoteSessionFrameBufferChannel_DEPRECATED in mode Write.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13144385
+LogInit: Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): May  2 2020 02:12:11
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.15-23.42.23:084][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.15-23.42.23:084][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+[2020.06.15-23.42.23:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.15-23.42.23:085][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.15-23.42.23:086][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.15-23.42.23:086][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.15-23.42.23:086][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.15-23.42.23:086][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.15-23.42.23:086][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.15-23.42.23:086][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.15-23.42.23:086][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+[2020.06.15-23.42.23:086][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+[2020.06.15-23.42.23:261][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.15-23.42.23:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.06.15-23.42.23:262][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.06.15-23.42.23:266][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.15-23.42.23:266][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.15-23.42.23:275][  0]LogHAL: Display: Platform has ~ 16 GB [17053310976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.15-23.42.23:284][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.15-23.42.23:285][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.15-23.42.23:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Luton-city/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.06.15-23.42.23:286][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.15-23.42.23:298][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.15-23.42.23:298][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.15-23.42.23:298][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.06.15-23.42.23:298][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Luton-city/Saved/Config/Windows/Engine.ini]
+[2020.06.15-23.42.23:299][  0]LogInit: Computer: DESKTOP-U8QG94N
+[2020.06.15-23.42.23:299][  0]LogInit: User: nilas
+[2020.06.15-23.42.23:299][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.15-23.42.23:299][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.15-23.42.23:299][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.15-23.42.23:299][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.15-23.42.23:299][  0]LogMemory: Process Physical Memory: 117.20 MB used, 117.21 MB peak
+[2020.06.15-23.42.23:299][  0]LogMemory: Process Virtual Memory: 98.27 MB used, 98.27 MB peak
+[2020.06.15-23.42.23:299][  0]LogMemory: Physical Memory: 8138.63 MB used,  8124.67 MB free, 16263.30 MB total
+[2020.06.15-23.42.23:299][  0]LogMemory: Virtual Memory: 5173.45 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.06.15-23.42.23:309][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.15-23.42.24:201][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.06.15-23.42.24:246][  0]LogInit: Using OS detected language (en-GB).
+[2020.06.15-23.42.24:246][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.15-23.42.24:269][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.06.15-23.42.24:868][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.15-23.42.25:299][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.15-23.42.25:299][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.15-23.42.26:865][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.15-23.42.26:865][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.15-23.42.26:865][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.15-23.42.26:938][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2020.06.15-23.42.26:938][  0]LogD3D11RHI:       8079/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.15-23.42.27:040][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.06.15-23.42.27:040][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.06.15-23.42.27:043][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.15-23.42.27:043][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.15-23.42.27:043][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.15-23.42.27:077][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.15-23.42.27:077][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.15-23.42.27:077][  0]LogWindows: EnumDisplayDevices:
+[2020.06.15-23.42.27:078][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2020.06.15-23.42.27:078][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2020.06.15-23.42.27:079][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2020.06.15-23.42.27:079][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2020.06.15-23.42.27:079][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.06.15-23.42.27:079][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.06.15-23.42.27:080][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.06.15-23.42.27:080][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.06.15-23.42.27:080][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2020.06.15-23.42.27:080][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.06.15-23.42.27:080][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.06.15-23.42.27:081][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.06.15-23.42.27:157][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.15-23.42.27:176][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.06.15-23.42.27:177][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.15-23.42.27:177][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.06.15-23.42.27:542][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.15-23.42.28:300][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.15-23.42.28:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.15-23.42.28:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.15-23.42.28:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.15-23.42.28:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.06.15-23.42.28:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.15-23.42.28:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.15-23.42.28:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.15-23.42.28:592][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.15-23.42.28:602][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.15-23.42.28:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.15-23.42.28:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.15-23.42.28:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.15-23.42.28:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.15-23.42.28:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.15-23.42.28:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.15-23.42.28:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.15-23.42.28:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.15-23.42.28:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.15-23.42.28:804][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.15-23.42.28:887][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.15-23.42.29:371][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (../../../../../../Luton-city/Intermediate/Shaders/WorkingDirectory/31656/).
+[2020.06.15-23.42.29:372][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nilas/AppData/Local/Temp/UnrealShaderWorkingDir/B31844C641EADBD3791F9887220C6D3F/'.
+[2020.06.15-23.42.29:382][  0]LogXGEController: Cleaning working directory: C:/Users/nilas/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.15-23.42.29:382][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.15-23.42.29:382][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.15-23.42.29:383][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.15-23.42.31:075][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.15-23.42.31:381][  0]LogDerivedDataCache: Loaded boot cache 0.31s 105MB C:/Users/nilas/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.06.15-23.42.31:381][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nilas/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.06.15-23.42.31:381][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Luton-city/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.15-23.42.31:381][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.15-23.42.31:381][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Luton-city/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.15-23.42.31:381][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.15-23.42.31:436][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.15-23.42.31:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.15-23.42.31:437][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.15-23.42.31:458][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nilas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.15-23.42.31:458][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.15-23.42.31:458][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.15-23.42.31:689][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.15-23.42.31:761][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.15-23.42.32:658][  0]LogAssetRegistry: FAssetRegistry took 0.0157 seconds to start up
+[2020.06.15-23.42.42:431][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.15-23.42.46:310][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.15-23.42.46:310][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.15-23.42.46:310][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.15-23.42.46:310][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.15-23.42.46:311][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.15-23.42.47:893][  0]LogNetVersion: LutonCity 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2607818257)
+[2020.06.15-23.43.04:517][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000014C7F0EEDC0), frame # 0
+[2020.06.15-23.43.04:517][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014C7F091440), frame # 0
+[2020.06.15-23.43.04:527][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014C7F0A3000), frame # 0
+[2020.06.15-23.43.05:075][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/2657c409.bin', retrying in .5s...
+[2020.06.15-23.43.05:576][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/2657c409.bin'.
+[2020.06.15-23.43.05:645][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/866581fd.bin', retrying in .5s...
+[2020.06.15-23.43.06:146][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/866581fd.bin'.
+[2020.06.15-23.43.06:147][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/8c0e1344.bin', retrying in .5s...
+[2020.06.15-23.43.06:648][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/8c0e1344.bin'.
+[2020.06.15-23.43.06:761][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/6bead350.bin', retrying in .5s...
+[2020.06.15-23.43.07:261][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/6bead350.bin'.
+[2020.06.15-23.43.07:267][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/218409f6.bin', retrying in .5s...
+[2020.06.15-23.43.07:769][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/218409f6.bin'.
+[2020.06.15-23.43.07:770][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/50a675f9.bin', retrying in .5s...
+[2020.06.15-23.43.08:272][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/50a675f9.bin'.
+[2020.06.15-23.43.08:276][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/089bc3de.bin', retrying in .5s...
+[2020.06.15-23.43.08:777][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/089bc3de.bin'.
+[2020.06.15-23.43.08:778][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/a02d411d.bin', retrying in .5s...
+[2020.06.15-23.43.09:279][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/a02d411d.bin'.
+[2020.06.15-23.43.09:280][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/9c1a1723.bin', retrying in .5s...
+[2020.06.15-23.43.09:782][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/9c1a1723.bin'.
+[2020.06.15-23.43.09:785][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/7b241018.bin', retrying in .5s...
+[2020.06.15-23.43.10:286][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/7b241018.bin'.
+[2020.06.15-23.43.10:297][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/09b713d3.bin', retrying in .5s...
+[2020.06.15-23.43.10:798][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/09b713d3.bin'.
+[2020.06.15-23.43.10:813][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/d859983c.bin', retrying in .5s...
+[2020.06.15-23.43.11:314][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/d859983c.bin'.
+[2020.06.15-23.43.11:315][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/8e9331e2.bin', retrying in .5s...
+[2020.06.15-23.43.11:817][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/8e9331e2.bin'.
+[2020.06.15-23.43.11:821][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/58fb7916.bin', retrying in .5s...
+[2020.06.15-23.43.12:321][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/58fb7916.bin'.
+[2020.06.15-23.43.12:324][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/52ed2538.bin', retrying in .5s...
+[2020.06.15-23.43.12:826][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/52ed2538.bin'.
+[2020.06.15-23.43.12:827][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/c788b007.bin', retrying in .5s...
+[2020.06.15-23.43.13:329][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/c788b007.bin'.
+[2020.06.15-23.43.13:338][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/AssetRegistryCache/d63b3057.bin', retrying in .5s...
+[2020.06.15-23.43.13:839][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/AssetRegistryCache/d63b3057.bin'.
+[2020.06.15-23.43.13:845][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 8.801014 seconds
+[2020.06.15-23.43.13:916][  0]LogUObjectArray: 16092 objects as part of root set at end of initial load.
+[2020.06.15-23.43.13:923][  0]LogUObjectAllocator: 4033024 out of 0 bytes used by permanent object pool.
+[2020.06.15-23.43.13:924][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.15-23.43.16:393][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini]
+[2020.06.15-23.43.16:395][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini]
+[2020.06.15-23.43.17:393][  0]LogPython: Using Python 2.7.14
+[2020.06.15-23.43.19:657][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.15-23.43.19:690][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.15-23.43.21:474][  0]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Luton-city/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2020.06.15-23.43.21:474][  0]SourceControl: Source control is disabled
+[2020.06.15-23.43.21:485][  0]LogFileManager: Error: Error deleting file '../../../../../../Luton-city/Intermediate/CachedAssetRegistry.bin'.
+[2020.06.15-23.43.21:485][  0]SourceControl: Source control is disabled
+[2020.06.15-23.43.21:586][  0]SourceControl: Source control is disabled
+[2020.06.15-23.43.21:598][  0]SourceControl: Source control is disabled
+[2020.06.15-23.43.21:608][  0]SourceControl: Source control is disabled
+[2020.06.15-23.43.21:731][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/Encryption.ini]
+[2020.06.15-23.43.21:741][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/Crypto.ini]
+[2020.06.15-23.43.23:427][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/UnitTestStats.ini]
+[2020.06.15-23.43.23:431][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/UnitTest.ini]
+[2020.06.15-23.43.23:492][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.15-23.43.23:579][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.15-23.43.23:579][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.15-23.43.25:742][  0]LogClass: Warning: ObjectProperty FSmartsuitPoseNode::BoneMapOverride is not initialized properly
+[2020.06.15-23.43.25:742][  0]LogClass: Warning: FFace::version is not initialized properly
+[2020.06.15-23.43.25:742][  0]LogClass: Warning: FFace::eyeBlinkLeft is not initialized properly
+[2020.06.15-23.43.25:742][  0]LogClass: Warning: FFace::eyeLookDownLeft is not initialized properly
+[2020.06.15-23.43.25:742][  0]LogClass: Warning: FFace::eyeLookInLeft is not initialized properly
+[2020.06.15-23.43.25:742][  0]LogClass: Warning: FFace::eyeLookOutLeft is not initialized properly
+[2020.06.15-23.43.25:742][  0]LogClass: Warning: FFace::eyeLookUpLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeSquintLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeWideLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeBlinkRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeLookDownRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeLookInRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeLookOutRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeLookUpRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeSquintRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::eyeWideRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::jawForward is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::jawLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::jawRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::jawOpen is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthClose is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthFunnel is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthPucker is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthSmileLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthSmileRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthFrownLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthFrownRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthDimpleLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthDimpleRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthStretchLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthStretchRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthRollLower is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthRollUpper is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthShrugLower is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthShrugUpper is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthPressLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthPressRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthLowerDownLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthLowerDownRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthUpperUpLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::mouthUpperUpRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::browDownLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::browDownRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::browInnerUp is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::browOuterUpLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::browOuterUpRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::cheekPuff is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::cheekSquintLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::cheekSquintRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::noseSneerLeft is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::noseSneerRight is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FFace::tongueOut is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FTracker::position is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FTracker::rotation is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: BoolProperty FTracker::isLive is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FTracker::trackingResult is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FTracker::trackerType is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FTracker::battery is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FProp::position is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FProp::rotation is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: BoolProperty FProp::isLive is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FProfile::dimensions is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FProfile::color is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FProfile::propType is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FRadiusReferencePoint::radius is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FRadiusReferencePoint::position is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FRadiusReferencePoint::rotation is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FReferencePoint::position is not initialized properly
+[2020.06.15-23.43.25:743][  0]LogClass: Warning: FReferencePoint::rotation is not initialized properly
+[2020.06.15-23.43.25:777][  0]LogClass: Display: 71 Uninitialized script stuct members found
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: ObjectProperty FSmartsuitPoseNode::BoneMapOverride is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::version is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeBlinkLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookDownLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookInLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookOutLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookUpLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeSquintLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeWideLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeBlinkRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookDownRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookInRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookOutRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeLookUpRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeSquintRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::eyeWideRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::jawForward is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::jawLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::jawRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::jawOpen is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthClose is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthFunnel is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthPucker is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthSmileLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthSmileRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthFrownLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthFrownRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthDimpleLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthDimpleRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthStretchLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthStretchRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthRollLower is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthRollUpper is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthShrugLower is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthShrugUpper is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthPressLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthPressRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthLowerDownLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthLowerDownRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthUpperUpLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::mouthUpperUpRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::browDownLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::browDownRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::browInnerUp is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::browOuterUpLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::browOuterUpRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::cheekPuff is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::cheekSquintLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::cheekSquintRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::noseSneerLeft is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::noseSneerRight is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FFace::tongueOut is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FTracker::position is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FTracker::rotation is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: BoolProperty FTracker::isLive is not initialized properly
+[2020.06.15-23.43.25:884][  0]LogAutomationTest: Warning: FTracker::trackingResult is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FTracker::trackerType is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FTracker::battery is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FProp::position is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FProp::rotation is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: BoolProperty FProp::isLive is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FProfile::dimensions is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FProfile::color is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FProfile::propType is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FRadiusReferencePoint::radius is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FRadiusReferencePoint::position is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FRadiusReferencePoint::rotation is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FReferencePoint::position is not initialized properly
+[2020.06.15-23.43.25:885][  0]LogAutomationTest: Warning: FReferencePoint::rotation is not initialized properly
+[2020.06.15-23.43.25:953][  0]LogEngine: Initializing Engine...
+[2020.06.15-23.43.26:056][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.06.15-23.43.26:142][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.011 s
+[2020.06.15-23.43.26:625][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.15-23.43.27:190][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.15-23.43.27:190][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014C0A7C4600), frame # 0
+[2020.06.15-23.43.27:191][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014C0A7AEE80), frame # 0
+[2020.06.15-23.43.27:403][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.15-23.43.27:403][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.15-23.43.27:403][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.15-23.43.27:403][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.15-23.43.27:403][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.15-23.43.27:403][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.15-23.43.27:403][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.15-23.43.27:403][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.15-23.43.27:420][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.15-23.43.27:420][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.15-23.43.27:497][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-23.43.27:497][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-23.43.27:538][  0]LogAudioMixer: Display: Using Audio Device Focusrite USB (Focusrite USB Audio)
+[2020.06.15-23.43.27:554][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.15-23.43.27:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.15-23.43.27:570][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.15-23.43.27:572][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.15-23.43.27:573][  0]LogInit: FAudioDevice initialized.
+[2020.06.15-23.43.27:649][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.15-23.43.27:827][  0]LogDerivedDataCache: Saved boot cache 0.18s 105MB C:/Users/nilas/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.06.15-23.43.27:827][  0]LogInit: Texture streaming: Enabled
+[2020.06.15-23.43.28:033][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.15-23.43.28:033][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.15-23.43.28:059][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.15-23.43.28:372][  0]LogInit: Transaction tracking system initialized
+[2020.06.15-23.43.28:900][  0]BlueprintLog: New page: Editor Load
+[2020.06.15-23.43.29:959][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2020.06.15-23.43.29:960][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini]
+[2020.06.15-23.43.29:960][  0]LocalizationService: Localization service is disabled
+[2020.06.15-23.43.30:230][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Luton-city/Intermediate/Config/CoalescedSourceConfigs/UnrealInsightsSettings.ini]
+[2020.06.15-23.43.32:622][  0]LogFileCache: Scanning file cache for directory 'D:/Luton-city/Content/' took 0.07s
+[2020.06.15-23.43.32:622][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.15-23.43.32:622][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.15-23.43.33:931][  0]LogVPUtilitiesEditor: VP Scouting subsystem initialized.
+[2020.06.15-23.43.35:881][  0]LogUObjectGlobals: BeginLoad(/Engine/EditorLandscapeResources/DefaultAlphaTexture) is flushing async loading
+[2020.06.15-23.43.35:881][  0]LogStreaming: Display: Flushing async loaders.
+[2020.06.15-23.43.40:866][  0]SourceControl: Source control is disabled
+[2020.06.15-23.43.40:873][  0]LogUnrealEdMisc: Loading editor; pre map load, took 93.566
+[2020.06.15-23.43.40:946][  0]Cmd: MAP LOAD FILE="../../../../../../Luton-city/Content/Maps/blankStartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.15-23.43.40:962][  0]LightingResults: New page: Lighting Build
+[2020.06.15-23.43.41:218][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-23.43.41:318][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-23.43.41:406][  0]MapCheck: New page: Map Check
+[2020.06.15-23.43.41:406][  0]LightingResults: New page: Lighting Build
+[2020.06.15-23.43.42:329][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000014C0A7C4600), frame # 0
+[2020.06.15-23.43.42:330][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014C0A7AEE80), frame # 0
+[2020.06.15-23.43.42:510][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.06.15-23.43.42:588][  0]LogAIModule: Creating AISystem for world blankStartupMap
+[2020.06.15-23.43.42:588][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014C20C79A00), frame # 0
+[2020.06.15-23.43.42:588][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014C1F74AD40), frame # 0
+[2020.06.15-23.43.42:825][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.15-23.43.42:951][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.06.15-23.43.42:972][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.15-23.43.42:984][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 11.472ms to complete.
+[2020.06.15-23.43.42:985][  0]LogFileHelpers: Loading map 'blankStartupMap' took 2.090
+[2020.06.15-23.43.44:491][  0]LogUnrealEdMisc: Total Editor Startup Time, took 97.183
+[2020.06.15-23.43.48:203][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-23.43.48:210][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-23.43.48:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-23.43.48:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-23.43.48:280][  0]LogCollectionManager: Loaded 0 collections in 0.001024 seconds
+[2020.06.15-23.43.48:440][  0]LogFileCache: Scanning file cache for directory 'D:/Luton-city/Saved/Collections/' took 0.00s
+[2020.06.15-23.43.48:440][  0]LogFileCache: Scanning file cache for directory 'D:/Luton-city/Content/Developers/nilas/Collections/' took 0.00s
+[2020.06.15-23.43.48:440][  0]LogFileCache: Scanning file cache for directory 'D:/Luton-city/Content/Collections/' took 0.00s
+[2020.06.15-23.43.48:440][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 3660 classes and 936 folders.
+[2020.06.15-23.43.48:575][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.15-23.43.49:481][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.06.15-23.43.49:522][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 2 classes and 0 folders.
+[2020.06.15-23.43.50:170][  0]LogSlate: Took 0.007953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.15-23.43.50:205][  0]LogSlate: Took 0.016177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.15-23.43.50:271][  0]LogSlate: Took 0.006522 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.15-23.43.50:884][  0]LogRenderer: Reallocating scene render targets to support 1136x560 Format 10 NumSamples 1 (Frame:1).
+[2020.06.15-23.43.51:675][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.15-23.43.51:675][  0]LogLoad: (Engine Initialization) Total time: 104.37 seconds
+[2020.06.15-23.43.51:675][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.15-23.43.52:272][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.15-23.43.52:648][  0]LogSlate: Took 0.018737 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.15-23.43.52:954][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Luton-city/Content/' took 0.90s
+[2020.06.15-23.43.53:694][  2]LogAssetRegistry: Asset discovery search completed in 81.0494 seconds
+[2020.06.15-23.43.53:711][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2020.06.15-23.44.02:051][ 27]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.15-23.44.05:939][ 27]LogStaticMesh: Building static mesh parkedCarA...
+[2020.06.15-23.44.06:419][ 27]LogStaticMesh: Built static mesh [0.47s] /Game/Environment/FrontStreet/ParkedCars/parkedCarA.parkedCarA
+[2020.06.15-23.44.08:403][ 27]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/FrontStreet_BackAlley_fox.FrontStreet_BackAlley_fox
+[2020.06.15-23.44.08:571][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.06.15-23.44.08:576][ 27]Cmd: MAP LOAD FILE="../../../../../../Luton-city/Content/Maps/FrontStreet_BackAlley_fox.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.15-23.44.08:578][ 27]LightingResults: New page: Lighting Build
+[2020.06.15-23.44.08:578][ 27]LoadErrors: New page: Loading map: FrontStreet_BackAlley_fox.umap
+[2020.06.15-23.44.08:580][ 27]LogWorld: UWorld::CleanupWorld for blankStartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-23.44.08:614][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-23.44.08:614][ 27]MapCheck: New page: Map Check
+[2020.06.15-23.44.08:614][ 27]LightingResults: New page: Lighting Build
+[2020.06.15-23.44.08:702][ 27]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000014C1F74AD40), frame # 27
+[2020.06.15-23.44.08:702][ 27]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000014C20C79A00), frame # 27
+[2020.06.15-23.44.08:703][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.06.15-23.44.09:646][ 27]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.06.15-23.44.09:647][ 27]LogAIModule: Creating AISystem for world FrontStreet_BackAlley_fox
+[2020.06.15-23.44.09:647][ 27]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000014CF08C2200), frame # 27
+[2020.06.15-23.44.09:648][ 27]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000014CE19A8540), frame # 27
+[2020.06.15-23.44.09:732][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2020.06.15-23.44.09:799][ 27]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.15-23.44.09:800][ 27]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.259ms to complete.
+[2020.06.15-23.44.09:801][ 27]LogFileHelpers: Loading map 'FrontStreet_BackAlley_fox' took 1.225
+[2020.06.15-23.44.37:536][938]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (neonSignB)
+[2020.06.15-23.44.43:356][333]MapCheck: New page: Map Check
+[2020.06.15-23.44.43:387][333]Cmd: MAP REBUILD ALLVISIBLE
+[2020.06.15-23.44.43:387][333]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.06.15-23.44.43:935][333]LogWorld: UWorld::CleanupWorld for FrontStreet_BackAlley_fox, bSessionEnded=true, bCleanupResources=false
+[2020.06.15-23.44.44:279][333]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.06.15-23.44.44:279][333]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.06.15-23.44.44:279][333]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.06.15-23.44.44:312][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.06.15-23.44.44:387][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:532][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:534][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:535][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:537][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:538][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:540][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.06.15-23.44.44:540][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.06.15-23.44.44:540][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:542][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:543][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:545][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:546][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:547][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:549][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:551][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:554][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:556][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:557][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:560][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:562][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:564][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:565][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:566][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:567][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:569][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:570][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:571][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:572][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:573][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:574][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:576][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:577][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:579][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:579][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:581][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:582][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:584][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:586][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:588][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:590][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:591][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:592][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:594][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:595][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:596][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:597][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:600][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:602][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:604][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:605][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:607][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:608][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:610][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:611][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:612][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:613][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.44:614][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 106
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 105
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 104
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 103
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 102
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 101
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 100
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 99
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 98
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 97
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 96
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 95
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 94
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 93
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 92
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 91
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 90
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 89
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 88
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 85
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 84
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 83
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 82
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 81
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 80
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 79
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 78
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 77
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 76
+[2020.06.15-23.44.53:166][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 75
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 74
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 73
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 71
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 70
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 69
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 68
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 67
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 66
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 65
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 64
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 63
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 62
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 61
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 60
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 59
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 57
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 56
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 52
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 48
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 46
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 45
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 43
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 37
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2020.06.15-23.44.53:167][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.06.15-23.44.53:168][333]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.06.15-23.44.53:168][333]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.06.15-23.44.53:168][333]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.06.15-23.44.53:168][333]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.06.15-23.44.53:168][333]TextureStreamingBuild: Display: Compiling optional shaders took 8.781 seconds.
+[2020.06.15-23.44.53:358][333]LogLevel: Display: Export Material TexCoord Scales took 0.190 seconds.
+[2020.06.15-23.44.53:407][333]TextureStreamingBuild: Display: Build Texture Streaming took 0.049 seconds.
+[2020.06.15-23.44.53:435][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.06.15-23.44.53:492][333]LightingResults: New page: Lighting Build - Jun 16, 2020, 3:44:53 AM
+[2020.06.15-23.44.53:734][333]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.06.15-23.44.53:877][333]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.06.15-23.44.53:907][333]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.06.15-23.44.55:125][333]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.06.15-23.44.55:125][333]LogSwarmInterface: [TryOpenConnection] Local Process ID is 31656
+[2020.06.15-23.45.02:581][333]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.06.15-23.45.02:582][333]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.06.15-23.45.02:582][333]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.06.15-23.45.02:582][333]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.06.15-23.45.02:582][333]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.06.15-23.45.04:573][333]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.06.15-23.45.04:574][333]MapCheck: New page: FrontStreet_BackAlley_fox - Jun 16, 2020, 3:45:04 AM
+[2020.06.15-23.45.04:585][333]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2020.06.15-23.45.04:615][333]MapCheck: Warning: Aurora_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2020.06.15-23.45.04:615][333]MapCheck: Warning: Aurora_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2020.06.15-23.45.04:699][333]MapCheck: Warning: bottleBeerAEmpty_78 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:699][333]MapCheck: Warning: bottleBeerAEmpty2 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:699][333]MapCheck: Warning: bottleBeerAEmpty3 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:699][333]MapCheck: Warning: bottleBeerAEmpty4 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:699][333]MapCheck: Warning: bottleBeerAEmpty5 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:699][333]MapCheck: Warning: bottleBeerAEmpty6 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:699][333]MapCheck: Warning: bottleBeerAEmpty7 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:700][333]MapCheck: Warning: hobo2 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:700][333]MapCheck: Warning: mafiaBoss_6 Static mesh actor has NULL StaticMesh property 
+[2020.06.15-23.45.04:733][333]MapCheck: Warning: moon_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:733][333]MapCheck: Warning: moon_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:741][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: buildingPlaceholder_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: moon2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Warning: moon2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.06.15-23.45.04:742][333]MapCheck: Map check complete: 1 Error(s), 49 Warning(s), took 168.206ms to complete.
+[2020.06.15-23.45.04:779][333]LogEditorBuildUtils: Build time 0:21
+[2020.06.15-23.45.04:934][333]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Luton-city/Intermediate/ReimportCache/3688439234.bin', retrying in .5s...
+[2020.06.15-23.45.05:435][333]LogFileManager: Error: Error deleting file 'D:/Luton-city/Intermediate/ReimportCache/3688439234.bin'.
+[2020.06.15-23.45.05:435][333]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.15-23.45.07:415][333]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.979 s
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: 
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: Ensure condition failed: bMoved [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Developer/DirectoryWatcher/Private/FileCache.cpp] [Line: 542]
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: Unable to move file-cache for 'D:/Luton-city/Content/' from 'D:/Luton-city/Intermediate/ReimportCache/3688439234.bin.tmp' to 'D:/Luton-city/Intermediate/ReimportCache/3688439234.bin' (free disk space: 0)
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: Stack: 
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff887e4bf55 UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff887e43509 UE4Editor-DirectoryWatcher.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff89782329e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff8977f54e2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff8977c25f7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff8978230a1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff8977705e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff897b4992e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff898420056 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff7870b7800 UE4Editor.exe!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff7870cba7c UE4Editor.exe!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff7870cbb5a UE4Editor.exe!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff7870de31d UE4Editor.exe!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff7870e145a UE4Editor.exe!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff8ff7e7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: [Callstack] 0x00007ff90138ce51 ntdll.dll!UnknownFunction []
+[2020.06.15-23.45.07:415][333]LogOutputDevice: Error: 

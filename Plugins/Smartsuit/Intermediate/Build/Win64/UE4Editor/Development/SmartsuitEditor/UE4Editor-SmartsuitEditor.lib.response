@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SmartsuitEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Intermediate\Build\Win64\pluginconvertEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\SmartsuitEditor.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\SmartsuitPose.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\VirtualProductionSourceEditor.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\VirtualProductionSourceFactory.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\SmartsuitEditor.init.gen.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\SmartsuitPose.gen.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\VirtualProductionSourceFactory.gen.cpp.obj"
+"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\Default.rc2.res"
+/OUT:"C:\Users\nilas\Documents\Unreal Projects\pluginconvert\Plugins\Smartsuit\Intermediate\Build\Win64\UE4Editor\Development\SmartsuitEditor\UE4Editor-SmartsuitEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_SmartsuitEditor
